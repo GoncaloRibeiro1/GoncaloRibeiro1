@@ -8,7 +8,7 @@ I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about progra
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, C++, SQL  
-- **Currently learning:** Data Structures & Algorithms , Software Design and Testing, Data Base, Physics, Operative Systems
+- **Currently learning:** Data Structures & Algorithms , Software Design and Testing, Data Bases, Physics, Operative Systems
 
 ---
 
