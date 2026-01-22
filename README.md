@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Gonçalo, a Computer Science aiming to turn into a Software Engineer in a few years (or something like that).
+I've worked with some languages so far, mainly Python, Java, C++ and SQL. DId some projects in every one of them.
 <!--
 **GoncaloRibeiro1/GoncaloRibeiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
