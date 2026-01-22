@@ -1,18 +1,34 @@
 ## Hi there 👋
-I'm Gonçalo, a Computer Science aiming to turn into a Software Engineer in a few years (or something like that).
 
-I've worked with some languages so far, mainly Python, Java, C++ and SQL. DId some projects in every one of them.
-<!--
-**GoncaloRibeiro1/GoncaloRibeiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about programming, building software and learning new concepts in this area.
 
-Here are some ideas to get you started:
+🎯 My goal is to become a **Software Engineer** (or something like that) working on impactful projects and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C++, SQL  
+- **Currently learning:** Data Structures & Algorithms , Software Design and Testing, Data Base, Physics, Operative Systems
+
+---
+
+### 📌 What I’ve worked on
+✅ Small projects using:
+- Python (automation / scripts / problem solving)
+- Java (OOP projects - i.e.: Super Mario game)
+- C++ (algorithms and performance - i.e.: Image Processing nd Modificiation)
+- SQL (databases and queries - i.e: Music Streaming App Database)
+
+---
+
+### 🌱 What I’m focusing on now
+- Writing cleaner and more maintainable code
+- Improving problem-solving skills
+- Building bigger projects and contributing to open-source
+
+---
+
+### 📫 How to reach me
+- LinkedIn: www.linkedin.com/in/gonçalo-ribeiro-461425390
+- Email: goncaloribeirofcl@gmail.com
+
