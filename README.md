@@ -2,7 +2,7 @@
 
 I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about programming, building software and learning new concepts in this area.
 
-🎯 My goal is to become a **Software Engineer** (or something like that) working on impactful projects and improving my skills every day.
+🎯 My goal is to become a **Software Engineer** (or something like that 😅) working on impactful projects and improving my skills every day.
 
 ---
 
