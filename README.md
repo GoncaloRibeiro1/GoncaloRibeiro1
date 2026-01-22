@@ -28,6 +28,13 @@ I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about progra
 
 ---
 
+### 🧩 Hobbies
+- ⚽ Football (AF Porto District Division | former National League U19)
+- 🌍 Travel enthusiast
+- 📣 Marketing for the FEUP Students' Association (representing 10k+ students)
+
+---
+
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/gonçalo-ribeiro-461425390
 - Email: goncaloribeirofcl@gmail.com
