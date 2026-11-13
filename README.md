@@ -40,6 +40,9 @@ I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about progra
 | Project | Description |
 |---|---|
 | [**WhereTo**](https://github.com/GoncaloRibeiro1/WhereTo) | Predicts where a driver is heading from their turn signals, using Bayes' rule on OpenStreetMap road data. *(Python)* |
+| [**Focus City**](https://github.com/LEIC-ES-2025-26-2LEIC07/T1) | Team-built app developed with agile practices for the Software Engineering course at FEUP. |
+| [**Fitness Pup**](https://github.com/FEUP-LTW-2026/ltw-project-ltw07g04) | Full-stack web application built for the Web Languages and Technologies course at FEUP. |
+| [**DA1**](https://github.com/DiogoSantos1207/DA1) · [**DA2**](https://github.com/Ague7es/DA2) | Graph and optimisation algorithms applied to real-world datasets, built for the Algorithm Design course at FEUP. *(C++)* |
 | [**Super Mario**](LINK) | A Super Mario-style platformer built with object-oriented design. *(Java)* |
 | [**Image Processing**](LINK) | Image-processing algorithms focused on performance. *(C++)* |
 | [**Music Streaming DB**](LINK) | Relational database and queries for a music streaming app. *(SQL)* |
