@@ -35,6 +35,17 @@ I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about progra
 
 ---
 
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [**WhereTo**](https://github.com/GoncaloRibeiro1/WhereTo) | Predicts where a driver is heading from their turn signals, using Bayes' rule on OpenStreetMap road data. *(Python)* |
+| [**Super Mario**](LINK) | A Super Mario-style platformer built with object-oriented design. *(Java)* |
+| [**Image Processing**](LINK) | Image-processing algorithms focused on performance. *(C++)* |
+| [**Music Streaming DB**](LINK) | Relational database and queries for a music streaming app. *(SQL)* |
+
+---
+
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/goncalo-fcl-ribeiro
 - Email: goncaloribeirofcl@gmail.com
