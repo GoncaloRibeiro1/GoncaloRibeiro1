@@ -36,7 +36,6 @@ I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about progra
 ---
 
 ## 🚀 Projects
-
 | Project | Description |
 |---|---|
 | [**WhereTo**](https://github.com/GoncaloRibeiro1/WhereTo) | Predicts where a driver is heading from their turn signals, using Bayes' rule on OpenStreetMap road data. *(Python)* |
