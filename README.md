@@ -36,6 +36,6 @@ I'm **Gonçalo Ribeiro**, a **Computer Science student** passionate about progra
 ---
 
 ### 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/gonçalo-ribeiro-461425390
+- LinkedIn: linkedin.com/in/goncalo-fcl-ribeiro/
 - Email: goncaloribeirofcl@gmail.com
 
